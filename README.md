@@ -1,4 +1,4 @@
-# Olist E-commerce Sales & Customer Behaviour Analysis
+# E-commerce Sales & Customer Behaviour Analysis
 
 This repository contains my data analysis portfolio project, where I use SQL, Python and Power BI to find out where a Brazilian online marketplace makes its money, why customers get unhappy, and why they rarely come back.
 
@@ -23,7 +23,6 @@ The aim of the project is to show a sound, reproducible analysis and honest conc
 <p align="center">
   <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 
