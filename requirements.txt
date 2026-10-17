@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+scipy>=1.10
+jupyterlab>=4.0
+ipykernel>=6.0
+# optional: lets the notebook auto-download the dataset from Kaggle
+kagglehub>=0.3
