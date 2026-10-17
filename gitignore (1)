@@ -1,0 +1,9 @@
+# raw data & generated database (Kaggle licence: link to the dataset instead of re-hosting it)
+data/*.csv
+data/sample/
+data/olist.db
+*.csv
+!powerbi/exports/monthly_revenue.csv
+.ipynb_checkpoints/
+__pycache__/
+.venv/
